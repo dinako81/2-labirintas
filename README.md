@@ -16,7 +16,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/dinako81/2-labirintas
 
-Design: [Labirintas](https://www.pinterest.com/pin/337840409531456681/visual-search/?x=12&y=10&w=530&h=397&cropSource=6&imageSignature=dab5ee17bcd964ac10ff1af358c50b28)
+Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI/attachments/9352426?mode=media)
 
 ## 🎯 Project features/goals
 
