@@ -1,20 +1,18 @@
 body {
     background-color: #FFFFFF; 
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin: 0;
+    margin: 0px;
+    padding: 0px;
 }
 .container {  
     width: 800px;
     margin-left: calc(50% - 400px);
     display: inline-block;
-    margin: 0;
-    display: inline-block;
-    background-color: burlywood;
-    
+    margin-top: 4%;    
 }
 header {
-    position: relative;
-    margin-top: 40%;
+    margin-top: 5%;
+    display: inline-block;
 }
 .icon {
     width: 30px;
@@ -23,54 +21,54 @@ header {
     font-size: 30px;
     float: right;
     margin: 0;
+    padding: 0;
 }
-
 .left-column {
     width: 50%; 
-    float:left;
-
+    float: left;
 }
-
 .img {
-    width: 30%;
-    margin-top: 40px;
-    margin-left: 40px;
-  
+    width: 60%;
+    margin-top: 15px;
+    margin-left: calc(50% - 25%)    
 }
 .right-column {
     width: 50%; 
-    float: right;
-    margin: 0;
-    width: 300px;
+    float: right; 
 }
-
 .main-title {
+    display: inline-block;
     color: #1E5013; 
-    font-size: 120px;
+    font-size: 160px;
     font-weight: normal;
-    margin-top: 20px;
-
+    margin-top: 40px;
+    width: 100%;
+    text-align: left;
+    line-height: 1em;
+    margin-bottom: 25px;
 }
-
 .description {
+    display: inline-block;
     font-size: 20px;
     color: #475E44;
-    display: inline;
-    line-height: 0,7em;
-    
+    width: 70%;   
+    text-align: left;
+    margin-bottom: 0px;
+    letter-spacing: -1px;
     
 }    
 .button {
-    display: inline-block;
-    margin-top: 40px;
-    margin-bottom: 40px;
     background-color: #64B24D; 
     color: #fff; 
     font-size: 16px;
-    padding: 0.6em;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding: 0.5em;
+    padding-left: 2em;
+    padding-right: 2em;
     text-decoration-line: none; 
-    box-shadow: #475E44;   
+    display: block;
+    line-height: 1.5em;
+    margin-top: 20px;
+    width: 90px;
+    box-shadow: 0px 3px 5px 0px rgb(0, 0, 0, 50%);    
 }
 
